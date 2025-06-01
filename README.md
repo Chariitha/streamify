@@ -5,6 +5,8 @@ Streamify is a full-stack language exchange platform that enables users to **pra
 
 ## Live Demo: 
 
+Check out the live app on [Render](https://streamify-2s3t.onrender.com)
+
 ## Features:
 
 - Real-time Messaging with Typing Indicators & Reactions
@@ -16,7 +18,7 @@ Streamify is a full-stack language exchange platform that enables users to **pra
 - Error Handling (Frontend & Backend)
 - Built with Scalable Technologies like Stream
 
-## Tech Stack
+## Tech Stack:
 
 | Layer         | Technology                                   |
 |---------------|----------------------------------------------|
@@ -26,44 +28,44 @@ Streamify is a full-stack language exchange platform that enables users to **pra
 | **Auth**      | JWT, bcrypt                                  |
 | **Deployment**| Vercel (Frontend), Render (Backend)          |
 
-## Screenshots 
+## Screenshots:
 
-### Sign Up 
+### 1. Sign Up Page
 ![Sign Up](/frontend/public/SignUp.png)
 
-### Onboarding
+### 2. Onboarding Page
 ![Onboarding](/frontend/public/Onboarding.png)
 
-### Login
+### 3. Login Page
 ![Login](/frontend/public/Login.png)
 
-### Home Page
+### 4. Home Page
 ![Home Page](/frontend/public/HomePage.png)
 ![Home Page](/frontend/public/Home.png)
 
-### Notifications Page
+### 5. Notifications Page
 ![Notifications Page](/frontend/public/Notifications.png)
 
-### Theme Selector
+### 6. Theme Selector
 ![Theme 1](/frontend/public/Theme1.png)
 ![Theme 2](/frontend/public/Theme2.png)
 
-### Chat Page
+### 7. Chat Page
 ![Chat Page](/frontend/public/Chat.png)
 
-### Call Page
+### 8. Call Page
 ![Call Page](/frontend/public/Call.png)
 
-### Protected Route Workflow
+### 9. Protected Route Workflow
 ![Protected Route Workflow](/frontend/public/Protect.png)
 
-### Authentication flow 
+### 10. Authentication flow 
 ![Authentication flow](/frontend/public/Authentication.png)
 
-### Protected Route 
+### 11. Protected Route flow
 ![Protected Route](/frontend/public/ProtectedRoute.png)
 
-## Future Enhancements 
+## Future Enhancements:
 
 - Voice-only chat rooms
 - Real-time translation support
