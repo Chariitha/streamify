@@ -26,7 +26,7 @@ Check out the live app on [Render](https://streamify-2s3t.onrender.com)
 | **Backend**   | Node.js, Express.js, MongoDB                 |
 | **APIs**      | Stream (Chat + Video Call)                   |
 | **Auth**      | JWT, bcrypt                                  |
-| **Deployment**| Vercel (Frontend), Render (Backend)          |
+| **Deployment**| Render                                       |
 
 ## Screenshots:
 
